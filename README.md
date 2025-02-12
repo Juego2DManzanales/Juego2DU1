@@ -7,7 +7,7 @@
 Aquí están las lecciones organizadas con sus respectivos enlaces:
 
 ### 📝 **Lección 1 - Introducción al Juego**  
-[Enlace al documento]([enlace-lectura-1.pdf](https://drive.google.com/file/d/12FfyGOn-i8jXGEzqnd2EqQ9YPZbQFIw2/view?usp=sharing))  
+[Visita mi sitio web]([https://www.ejemplo.com](https://drive.google.com/file/d/12FfyGOn-i8jXGEzqnd2EqQ9YPZbQFIw2/view?usp=sharing))
 ![PDF Icon](https://img.icons8.com/ios/50/000000/pdf.png)
 
 ### 📝 **Lección 2 - Jugabilidad Avanzada**  
