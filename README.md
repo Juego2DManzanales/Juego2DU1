@@ -2,62 +2,44 @@
 
 ¡Bienvenido al repositorio de **Lecciones**! Aquí podrás encontrar enlaces a diversos documentos y videos, organizados en lecciones temáticas de videojuego.
 
-## 📄 **Lecciones Disponibles**
+## 📄 **Lecciones**
 
-Aquí están las lecciones organizadas con sus respectivos enlaces:
 
-### 📝 **Lección 1 - Introducción al Juego**  
-[Visita mi sitio web]([https://www.ejemplo.com](https://drive.google.com/file/d/12FfyGOn-i8jXGEzqnd2EqQ9YPZbQFIw2/view?usp=sharing))
-![PDF Icon](https://img.icons8.com/ios/50/000000/pdf.png)
+### 📝 **Lección 1**  
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Tutorial 1-6 </a>
 
-### 📝 **Lección 2 - Jugabilidad Avanzada**  
-[Enlace al documento](enlace-lectura-2.pdf)  
-![PDF Icon](https://img.icons8.com/ios/50/000000/pdf.png)
+### 📝 **Lección 2**  
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Tutorial 7-12 </a>
 
-### 📝 **Lección 3 - Estrategias y Tácticas**  
-[Enlace al documento](enlace-lectura-3.pdf)  
-![PDF Icon](https://img.icons8.com/ios/50/000000/pdf.png)
+### 📝 **Lección 3**  
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Tutorial 13-18 </a>
 
-### 📝 **Lección 4 - Mundo Abierto y Exploración**  
-[Enlace al documento](enlace-lectura-4.pdf)  
-![PDF Icon](https://img.icons8.com/ios/50/000000/pdf.png)
+### 📝 **Lección 4**  
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Tutorial 19-20 </a>
 
-### 📝 **Lección 5 - Creación de Personajes**  
-[Enlace al documento](enlace-lectura-5.pdf)  
-![PDF Icon](https://img.icons8.com/ios/50/000000/pdf.png)
 
-### 📝 **Lección 6 - Elementos Narrativos en los Videojuegos**  
-[Enlace al documento](enlace-lectura-6.pdf)  
-![PDF Icon](https://img.icons8.com/ios/50/000000/pdf.png)
+## 🎬 **Videos**  
+En el siguiente apartado obtendremos una serie de videos que nos ayudaran a verificar la culminacion de cada lección 
 
----
+### 🎥 **Video 1 - Leccion 1**  
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Video </a>
 
-## 🎬 **Videos Relacionados**  
-Disfruta de los siguientes videos que complementan las lecciones:
+### 🎥 **Video 2 - Leccion 2**  
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Video </a>
 
-### 🎥 **Video 1: Estrategias para Vencer al Jefe Final**  
-[Ver Video 1](https://www.youtube.com/watch?v=video1)  
-![Video Icon](https://img.icons8.com/ios/50/000000/video.png)
+### 🎥 **Video 3 - Leccion 3**  
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Video </a>
 
-### 🎥 **Video 2: Cómo Crear tu Propio Mundo Abierto**  
-[Ver Video 2](https://www.youtube.com/watch?v=video2)  
-![Video Icon](https://img.icons8.com/ios/50/000000/video.png)
-
-### 🎥 **Video 3: Secretos del Juego: Lo que No Sabías**  
-[Ver Video 3](https://www.youtube.com/watch?v=video3)  
-![Video Icon](https://img.icons8.com/ios/50/000000/video.png)
-
-### 🎥 **Video 4: El Arte de la Narrativa en los Videojuegos**  
-[Ver Video 4](https://www.youtube.com/watch?v=video4)  
-![Video Icon](https://img.icons8.com/ios/50/000000/video.png)
+### 🎥 **Video 4 - Leccion 4**  
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Video </a>
 
 ---
 
-## 🗂 **Acceso a Google Drive**  
-Para descargar más recursos, accede a la siguiente carpeta de Google Drive:
+## 🗂 **Acceso a paquete del juego**  
+Obtendremos el paquete del juego, con el cual podremos verificar que se culmino y se realizo con exito
 
-[**Accede a Google Drive**](https://drive.google.com/your-drive-link)  
-![Drive Icon](https://img.icons8.com/ios/50/000000/google-drive.png)
+* <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Paquete </a>
+
 
 ---
 
