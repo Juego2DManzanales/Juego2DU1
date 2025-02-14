@@ -1,7 +1,5 @@
 # 🎮 **Enlaces a Documentos de Lecciones** 📚
 
-¡Bienvenido al repositorio de **Lecciones**! Aquí podrás encontrar enlaces a diversos documentos y videos, organizados en lecciones temáticas de videojuego.
-
 ## 📄 **Lecciones**
 
 
